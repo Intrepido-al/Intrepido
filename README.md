@@ -1,1 +1,12 @@
-# Intrepido
+<img width="1565" height="715" alt="Screenshot 2026-10-21 174844" src="https://github.com/user-attachments/assets/b1b1f050-1c0c-467f-9aa1-d438fe7d2de0" />
+<img width="1919" height="1065" alt="Screenshot 2026-10-21 175350" src="https://github.com/user-attachments/assets/3c35548f-cd45-4ec0-bdcf-c9a3dcf8cba7" />
+<img width="1564" height="705" alt="Screenshot 2026-10-21 175333" src="https://github.com/user-attachments/assets/a450012a-58a7-4015-a32b-71726a2d1068" />
+<img width="1553" height="707" alt="Screenshot 2026-10-21 175019" src="https://github.com/user-attachments/assets/4adfa409-743c-4015-9d18-e0bde0aa30f3" />
+<img width="1550" height="705" alt="Screenshot 2026-10-21 175009" src="https://github.com/user-attachments/assets/9c2b3a21-d0c9-4df8-aaf4-93e12f3bbb3f" />
+<img width="1570" height="712" alt="Screenshot 2026-10-21 174959" src="https://github.com/user-attachments/assets/6fd6d952-7410-459d-8dae-d601f0adfdca" />
+<img width="1564" height="710" alt="Screenshot 2026-10-21 174950" src="https://github.com/user-attachments/assets/983f392a-25aa-41a0-9b64-3038370850b2" />
+<img width="1552" height="702" alt="Screenshot 2026-10-21 174943" src="https://github.com/user-attachments/assets/001dec31-8c04-428a-a6b8-d3380b7e7283" />
+<img width="1545" height="708" alt="Screenshot 2026-10-21 174935" src="https://github.com/user-attachments/assets/3431f465-8310-4025-88f7-50c756f947bb" />
+<img width="1554" height="706" alt="Screenshot 2026-10-21 174926" src="https://github.com/user-attachments/assets/d3160279-9c5c-431d-850a-659b8b9af480" />
+<img width="1555" height="715" alt="Screenshot 2026-10-21 174916" src="https://github.com/user-attachments/assets/2e9fdebe-1b06-4748-880b-1b2fa0d3d91f" />
+<img width="1567" height="710" alt="Screenshot 2026-10-21 174859" src="https://github.com/user-attachments/assets/dd3de9fb-37ca-47e1-9b82-49df83b910d7" />
